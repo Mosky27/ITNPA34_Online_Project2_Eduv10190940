@@ -74,10 +74,6 @@ Windows:
 ``` bash
 .venv\Scripts\activate
 ```
-3. Install dependencies
-``` bash
-pip install -r Deployment/requirements.txt
-```
 4. Run the web application
 ``` bash
 cd Deployment
