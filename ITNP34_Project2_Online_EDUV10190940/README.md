@@ -119,10 +119,4 @@ LDA topics should be treated as exploratory themes within the supplied
 documents, not as definitive evidence of trends across the entire AI
 research field. Topic labels are interpretations of the words grouped by
 the model and should be checked against the original articles.
-Project Source
-Source: MATANGA NY (2026), assignment brief and supplied datasets.
-License
-Add the licence required by your institution or project owner before
-redistributing this repository. If no redistribution permission has been
-granted for the datasets or source materials, do not add a licence that
-implies permission to reuse them.
+
