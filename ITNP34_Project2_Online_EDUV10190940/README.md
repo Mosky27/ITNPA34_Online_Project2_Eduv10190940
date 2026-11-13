@@ -63,11 +63,9 @@ to the repository. Do not add generated files that are not included.
 Getting Started
 1. Clone the repository
 ``` bash
-git clone https://github.com/YOUR-USERNAME/Researchly-Research-Analytics.git
+git clone https://github.com/Mosky27/ITNPA34_Online_Project2_Eduv10190940.git
 cd Researchly-Research-Analytics
 ```
-Replace `YOUR-USERNAME` with the GitHub account that owns the
-repository.
 2. Create and activate a virtual environment (recommended)
 ``` bash
 python -m venv .venv
