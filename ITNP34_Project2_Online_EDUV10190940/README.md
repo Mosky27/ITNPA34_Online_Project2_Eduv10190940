@@ -64,7 +64,7 @@ Getting Started
 1. Clone the repository
 ``` bash
 git clone https://github.com/Mosky27/ITNPA34_Online_Project2_Eduv10190940.git
-cd Researchly-Research-Analytics
+
 ```
 2. Create and activate a virtual environment (recommended)
 ``` bash
