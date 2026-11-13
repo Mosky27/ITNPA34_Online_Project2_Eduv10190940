@@ -57,11 +57,6 @@ application.
 The probability is the model's estimated score for its prediction, not a
 guarantee that the classification is correct.
 Troubleshooting
-`ModuleNotFoundError: No module named 'streamlit'`
-Install the dependencies using:
-``` bash
-pip install -r requirements.txt
-```
 If using Jupyter Notebook, ensure that the terminal and notebook use the
 intended Python environment.
 Dataset file not found
